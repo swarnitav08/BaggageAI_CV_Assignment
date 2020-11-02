@@ -16,7 +16,7 @@ Some points to note:
 
 6) The folders added with images contain - 
 
- a) paste_mask images(transparent masks for pasting) 
+ a) paste_mask images (transparent masks for pasting) 
 
  b) resized images (resized and rotated threat images)
 
